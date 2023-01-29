@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
-int main()
+int main ()
 {
-	std::cout << "Hello, World!\n";
-	return 0;
+    printf("Hello Docker\n");
+    return 0;
 }
